@@ -5,11 +5,11 @@ import org.testng.annotations.Test;
 
 public class Groom {
 	
-	@Parameters("BROWSER")
+	
 	
 	@Test
-	public void m1(String browser) {
-		System.out.println(browser);
+	public void m1() {
+		System.out.println("browser");
 		System.out.println("java");
 		System.out.println("hello");
 	}
