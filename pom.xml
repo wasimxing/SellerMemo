@@ -13,7 +13,7 @@
 	
 	<profiles>
 		<profile>
-			<id>BatchExecution</id>
+			<id></id>
 			<build>
 				<plugins>
 					<plugin>
