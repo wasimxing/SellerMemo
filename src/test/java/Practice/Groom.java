@@ -10,6 +10,7 @@ public class Groom {
 	@Test
 	public void m1(String browser) {
 		System.out.println(browser);
+		System.out.println("java");
 	}
 
 }
