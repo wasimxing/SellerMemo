@@ -11,6 +11,7 @@ public class Groom {
 	public void m1(String browser) {
 		System.out.println(browser);
 		System.out.println("java");
+		System.out.println("hello");
 	}
 
 }
